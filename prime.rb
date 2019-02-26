@@ -8,7 +8,8 @@ def prime?(int)
   return prime_num
     end
   end
-else prime_num = false
+else 
+  prime_num = false
   return prime_num
   end 
   return prime_num
