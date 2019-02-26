@@ -1,8 +1,8 @@
 # Add  code here!
 def prime?(int)
-  prime_num = int % 2
-  if int = 2
-    return true
+  prime_num = true
+  if int > 0 
+    
   elsif 
     return false
   elsif prime_num = 0
