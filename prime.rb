@@ -6,8 +6,8 @@ def prime?(int)
       if (int % d) == 0
   prime_num = false
   return prime_num
+    end
   end
-end
 else prime_num = false
   return prime_num
 end return prime_num
