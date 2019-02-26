@@ -8,3 +8,4 @@ def prime?(int)
   return prime_num
   end
 end
+else 
