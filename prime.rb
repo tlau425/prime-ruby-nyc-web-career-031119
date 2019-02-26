@@ -4,7 +4,7 @@ def prime?(int)
   if int = 2
     return true
   elsif prime_num == 0
-    return true
-  else return false
+    return false
+  else return true
 end
 end
