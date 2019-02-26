@@ -13,3 +13,4 @@ else
   return prime_num
   end 
   return prime_num
+end
