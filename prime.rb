@@ -2,7 +2,7 @@
 def prime?(int)
   prime_num = true
   if int > 0 
-    for d in 2..
+    for d in 2..(num - 1)
   elsif 
     return false
   elsif prime_num = 0
