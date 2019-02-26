@@ -10,4 +10,5 @@ def prime?(int)
   end
 else prime_num = false
   return prime_num
-end return prime_num
+  end 
+  return prime_num
