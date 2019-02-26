@@ -5,5 +5,6 @@ def prime?(int)
     for d in 2..(int - 1)
       if (int % d) == 0
   prime_num = false
+  return prime_num
   end
 end
