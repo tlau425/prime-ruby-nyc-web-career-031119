@@ -9,3 +9,4 @@ def prime?(int)
   end
 end
 else prime_num = false
+  return prime_num
